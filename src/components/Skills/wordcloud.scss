@@ -1,0 +1,23 @@
+.tagcloud-wrap {
+    // background: gray;
+    
+    float: left;
+    width: 53%;
+    height: 15%;
+    margin-top: -3%;
+    
+    .tagcloud {
+      color: #00bfbf;
+      font-size: 20px;
+      font-weight: 450;
+      margin: 10% auto;
+    }
+    .tagcloud--item:hover {
+      color: #005f5f;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .tagcloud-wrap {
+      width: 10%;
+    }
+  }
