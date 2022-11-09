@@ -23,7 +23,7 @@
             {
                 "network": "Google",
                 "username": "About",
-                "href": "/About",
+                "href": "javedkhan.vercel.app/About",
                 "x_icon": "fab fa-google"
             },
             {
@@ -37,6 +37,12 @@
                 "username": "Javed Khan/github",
                 "url": "https://github.com/zavi4you",
                 "x_icon": "fab fa-github"
+            }
+              {
+                "network": "Facebok",
+                "username": "Javed Khan/Facebook",
+                "url": "https://facebook.com/zavi.for.you",
+                "x_icon": "fab fa-facebook-f"
             }
             
         ]
